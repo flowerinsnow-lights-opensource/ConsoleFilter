@@ -1,0 +1,6 @@
+main: online.flowerinsnow.consolefilter.ConsoleFilter
+name: ConsoleFilter
+version: ${project.version}
+author: flowerinsnow
+commands:
+  consolefilter: {}

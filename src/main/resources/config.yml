@@ -1,0 +1,6 @@
+# 格式：正则
+filters:
+  # 示例：匹配玩家输入了l/login/reg/register命令
+  - "^[a-zA-Z0-9_]{3,16} issued server command: /(l(ogin)?|reg(ister)?) .+$"
+messages:
+  reload: "&7[&b!&7]&b重载成功"
