@@ -1,4 +1,5 @@
 /.idea/
+local/
 target/
 *.iml
 *.ipr
